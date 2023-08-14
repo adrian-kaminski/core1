@@ -13,11 +13,5 @@ select 1 from tmp;
 select 1 from tmp;
 select 1 from tmp;
 select 1 from tmp;
-select 1 from tmp;
-select 1 from tmp;
-select 1 from tmp;
-select 1 from tmp;
-select 1 from tmp;
-select 1 from tmp;
-select 1 from tmp;
+
 
